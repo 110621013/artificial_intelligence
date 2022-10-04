@@ -1,2 +1,4 @@
 /hw1_StockPricePrediction/Dataset
 /hw1_StockPricePrediction/Dataset.zip
+*.csv
+*.h5
