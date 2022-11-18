@@ -2,3 +2,5 @@
 /hw1_StockPricePrediction/Dataset.zip
 *.csv
 *.h5
+*_MlpPolicy_*.zip
+/hw2_Stock_Investment/*.ckpt
